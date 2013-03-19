@@ -22,7 +22,7 @@
 		var multiSelector = {
 
 			config : {
-				container	 : $('#friendlist'),
+				container    : $('#friendlist'),
 				max_selected : 0
 			},
 
