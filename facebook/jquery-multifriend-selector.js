@@ -69,7 +69,7 @@
 						name = a[i].name;
 
 					$('<div></div>', {
-						class 	: 'friends',
+						'class' : 'friends',
 						id 		: uid,
 						html    : '<img src="https://graph.facebook.com/' + uid + '/picture" width="30" height="30">&nbsp;<span class="friend_name">' + name + '</span>'
 					}).appendTo(container);
